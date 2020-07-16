@@ -27,3 +27,11 @@ just tryin out [rumps](https://rumps.readthedocs.io/en/latest/index.html)
 - settings
 - weep
 
+## See it and weep
+First Open
+
+![Ugly](https://github.com/alisonhau/nhltoolbarmac/blob/master/before.png?raw=true)
+
+After Clicking "Update!"
+
+![10% less ugly](https://github.com/alisonhau/nhltoolbarmac/blob/master/after.png?raw=true)
