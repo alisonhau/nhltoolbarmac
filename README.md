@@ -34,4 +34,4 @@ First Open
 
 After Clicking "Update!"
 
-![10% less ugly](https://github.com/alisonhau/nhltoolbarmac/blob/master/after.png?raw=true)
+![10% less ugly](https://github.com/alisonhau/nhltoolbarmac/blob/master/after2.png?raw=true)
