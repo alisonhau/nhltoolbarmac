@@ -7,8 +7,12 @@ just tryin out [rumps](https://rumps.readthedocs.io/en/latest/index.html)
 - toggle auto updates
 - score in toolbar
 - current pd, time left in menu
+- future games!
+- days until future games
+- time zone magic (time until is calculated by time zone of home team, not of user)
 
 ## Planned Updates
+- get local time zone / let user set time zone (for days until)
 - make it work for next/current pens games (can't test without games!!!)
 - add standings
 - generalize to work for any teams lmao (honestly? optional)
@@ -18,5 +22,8 @@ just tryin out [rumps](https://rumps.readthedocs.io/en/latest/index.html)
 - possibly notifications for penalties?? check api to see if this is possible
 - add multiple teams?
 - add icons
+- make separate functions damnit
+- fix auto-updates (this will probably require lots of moving shit around)
+- settings
 - weep
 
