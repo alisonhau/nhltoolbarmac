@@ -2,8 +2,6 @@
 just tryin out [rumps](https://rumps.readthedocs.io/en/latest/index.html)
 
 ## Currently Implemented
-- tells you score for previous Pens game (no current games due to suspended season, so hard to test)
-- update score
 - toggle auto updates
 - score in toolbar
 - current pd, time left in menu
@@ -12,8 +10,10 @@ just tryin out [rumps](https://rumps.readthedocs.io/en/latest/index.html)
 - time zone magic (time until is calculated by time zone of home team, not of user)
 
 ## Planned Updates
+- MAKE A TEST RESPONSE SO YOU DONT HAVE TO WAIT UNTIL GAMES TO FIGURE OUT IF THINGS DONT WORK  
+- update score does not work
 - get local time zone / let user set time zone (for days until)
-- make it work for next/current pens games (can't test without games!!!)
+- make a class damnit
 - add standings
 - generalize to work for any teams lmao (honestly? optional)
 - add more info (penalty box, goaltender, maybe who's on the ice?? maybe too much)
